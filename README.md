@@ -8,26 +8,26 @@ To start contributing, follow the below guidelines:
 
 *🌟.*  Star🌟 the repository to appreciate the work.
 
-*0.*  Take a look at the existing [issues](https://github.com/sameersrivastava13/Vaccine-Tracker-App/issues) or create your own issues. Wait for the Issue to be assigned to you after which you can start working on it.
+*0.*  Take a look at the existing [issues](https://github.com/amruta-07/Java-Programming-Interview-Questions/issues) or create your own issues. Wait for the Issue to be assigned to you after which you can start working on it.
 
-*1.*  Fork [this](https://github.com/sameersrivastava13/Vaccine-Tracker-App) repository.
+*1.*  Fork [this](https://github.com/amruta-07/Java-Programming-Interview-Questions) repository.
 
 *2.*  Clone your forked copy of the project.
 
 
-git clone --depth 1 https://github.com/<your_user_name>/Vaccine-Tracker-App.git
+git clone --depth 1 https://github.com/<your_user_name>/Java-Programming-Interview-Questions.git
 
 
 *3.* Navigate to the project directory :file_folder: .
 
 
-cd Vaccine-Tracker-App
+cd Java-Programming-Interview-Questions
 
 
 *4.* Add a reference(remote) to the original repository.
 
 
-git remote add upstream -App.git 
+git remote add upstream https://github.com/amruta-07/Java-Programming-Interview-Questions.git 
 
 
 *5.* Check the remotes for this repository.
@@ -76,6 +76,6 @@ git push -u origin <your_branch_name>
 
 *14.* Click on `Create Pull Request`.
 
-*15.* Voila :exclamation: You have made a PR to the Vaccine-Tracker-App project :boom: . Sit back patiently and relax while the project maintainers review your PR. Please understand, at times the time taken to review a PR can vary from a few hours to a few days.
+*15.* Voila :exclamation: You have made a PR to the Java-Programming-Interview-Questions project :boom: . Sit back patiently and relax while the project maintainers review your PR. Please understand, at times the time taken to review a PR can vary from a few hours to a few days.
 
 <p align="center"><img src="https://media.tenor.com/images/b562ddcfb131e962f9dfa01bd32a30d1/tenor.gif" width=30%></p>
