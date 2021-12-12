@@ -1,5 +1,5 @@
 # Java-Programming-Interview-Questions
-**This repository contains all the popular Java questions with solutions for your Coding Interview Preparation.* 
+**This repository contains all the popular Java questions with solutions for your Coding Interview Preparation.** 
 ## Contribution Guidelines 🏗
 
 Are we missing any of your favorite features, which you think you can add to it❓ We invite you to contribute to this project and improve it further
